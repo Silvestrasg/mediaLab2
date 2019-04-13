@@ -1,5 +1,8 @@
 # MT-Lab2
 
+* Microsoft Edge 42.17134.1.0 
+* Google Chrome 73.0.3683.103 (nerodo objektų)
+
 This lab aims to build your first Virtual reality (VR) app.
 
 There are many open source alternatives to build virtual reality application. One of the web based solution is A-frame. You can try a live examples: https://aframe.io/aframe/examples/
