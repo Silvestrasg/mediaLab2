@@ -1,5 +1,6 @@
 # MT-Lab2
 
+  I¶BANDYTA SU:
 * Microsoft Edge 42.17134.1.0 
 * Google Chrome 73.0.3683.103 (nerodo objekt≈≥)
 
