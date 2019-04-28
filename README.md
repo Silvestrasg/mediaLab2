@@ -1,8 +1,21 @@
 # MT-Lab2
 
-  I¶BANDYTA SU:
+  ISBANDYTA SU:
 * Microsoft Edge 42.17134.1.0 
 * Google Chrome 73.0.3683.103 (nerodo objekt≈≥)
+
+ Prideti mygtukai valdyti objektui:
+* Pasukti
+* Paversti
+* Pastumti i kaire/de®ine
+* Pakelti i vir®u/nuleisti i apacia
+* Padidinti/Suma∏inti 
+ 
+* updated A-frame version
+
+
+
+
 
 This lab aims to build your first Virtual reality (VR) app.
 
